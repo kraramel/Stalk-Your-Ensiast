@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Stalk-Your-Ensiast/static/css/main.29ba3b96.chunk.css",
+    "main.js": "/Stalk-Your-Ensiast/static/js/main.858fa7c9.chunk.js",
+    "main.js.map": "/Stalk-Your-Ensiast/static/js/main.858fa7c9.chunk.js.map",
+    "runtime-main.js": "/Stalk-Your-Ensiast/static/js/runtime-main.3f08a2a5.js",
+    "runtime-main.js.map": "/Stalk-Your-Ensiast/static/js/runtime-main.3f08a2a5.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Stalk-Your-Ensiast/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.195cf6c1.chunk.js": "/Stalk-Your-Ensiast/static/js/2.195cf6c1.chunk.js",
+    "static/js/2.195cf6c1.chunk.js.map": "/Stalk-Your-Ensiast/static/js/2.195cf6c1.chunk.js.map",
+    "index.html": "/Stalk-Your-Ensiast/index.html",
+    "precache-manifest.b872e0b56b3a677c65c7b785d318e29d.js": "/Stalk-Your-Ensiast/precache-manifest.b872e0b56b3a677c65c7b785d318e29d.js",
+    "service-worker.js": "/Stalk-Your-Ensiast/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Stalk-Your-Ensiast/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.29ba3b96.chunk.css.map": "/Stalk-Your-Ensiast/static/css/main.29ba3b96.chunk.css.map",
+    "static/media/App.css": "/Stalk-Your-Ensiast/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f08a2a5.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.195cf6c1.chunk.js",
+    "static/css/main.29ba3b96.chunk.css",
+    "static/js/main.858fa7c9.chunk.js"
+  ]
+}
