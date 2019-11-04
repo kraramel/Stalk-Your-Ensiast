@@ -38,7 +38,7 @@ class App extends React.Component {
 
         return (
             <div className='tc'>
-                <h1>RoboFriends</h1>
+                <h1>Stalk Your Ensiast</h1>
                 <SearchBox searchChange={this.onSearchChange} />
                 <Scroll>
                     <CardList robots={filteredRobots} />
