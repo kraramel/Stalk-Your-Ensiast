@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e2697c65f7c7b235e528ab67e87460b",
+    "revision": "bb6bbac0fb02b3cbdde4c4a529fb76e3",
     "url": "/Stalk-Your-Ensiast/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Stalk-Your-Ensiast/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "64526dee1a7ee4297f7f",
+    "revision": "76c7cd46ffba69010d67",
     "url": "/Stalk-Your-Ensiast/static/css/main.29ba3b96.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Stalk-Your-Ensiast/static/js/2.195cf6c1.chunk.js"
   },
   {
-    "revision": "64526dee1a7ee4297f7f",
-    "url": "/Stalk-Your-Ensiast/static/js/main.858fa7c9.chunk.js"
+    "revision": "76c7cd46ffba69010d67",
+    "url": "/Stalk-Your-Ensiast/static/js/main.3661759d.chunk.js"
   },
   {
     "revision": "0f0f7c6b42894705b5da",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Stalk-Your-Ensiast/precache-manifest.b872e0b56b3a677c65c7b785d318e29d.js"
+  "/Stalk-Your-Ensiast/precache-manifest.0b31de8e94fc43677353b9d8d48f6b5c.js"
 );
 
 self.addEventListener('message', (event) => {
